@@ -28,32 +28,32 @@ let track = document.createElement('audio');
 let All_song = [
    {
      name: "Im Lặng",
-     path: "../music/imlang.mp3",
-     img: "../img/imlang.jpg",
+     path: "music/imlang.mp3",
+     img: "img/imlang.jpg",
      singer: "LK"
    },
    {
      name: "Mình yêu nhau đi",
-     path: "../music/minhyeu.mp3",
-     img: "../img/minhyeu.jpg",
+     path: "music/minhyeu.mp3",
+     img: "img/minhyeu.jpg",
      singer: "Bích Phương"
    },
    {
      name: "Nắm chặt tay anh nhé",
-     path: "../music/namtay.mp3",
-     img: "../img/namtay.jpg",
+     path: "music/namtay.mp3",
+     img: "img/namtay.jpg",
      singer: "Lynk Lee"
    },
    {
      name: "Phố không em",
-     path: "../music/phokhong.mp3",
-     img: "../img/phokhongem.jpg",
+     path: "music/phokhong.mp3",
+     img: "img/phokhongem.jpg",
      singer: "Thái Đinh"
    },
    {
      name: "Thích em hơi nhiều",
-     path: "../music/thichem.mp3",
-     img: "../img/thichem.jpg",
+     path: "music/thichem.mp3",
+     img: "img/thichem.jpg",
      singer: "Wren Evans"
    }
 ];
