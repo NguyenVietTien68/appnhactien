@@ -107,6 +107,8 @@ function mute_sound(){
 
 // play song
 function playsong(){
+  track.volume = 40;
+  volume.value = 40;
   track.play();
   Playing_song = true;
   play.innerHTML = '<i class="fa fa-pause" aria-hidden="true"></i>';
